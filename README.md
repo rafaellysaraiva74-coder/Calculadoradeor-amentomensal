@@ -1,2 +1,3 @@
-﻿# Calculadoradeor-amentomensal
-# baixar o arquivo com.py para testar a minha calculadora de orçamento mensal
+﻿# Calculadora de despesas
+# baixar o arquivo com.py para testar a minha calculadora despesas 
+
